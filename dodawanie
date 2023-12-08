@@ -1,0 +1,5 @@
+print("helo")
+a=int(input("podaj a"))
+print(a)
+b=int(input("podaj b"))
+print(a+b)
